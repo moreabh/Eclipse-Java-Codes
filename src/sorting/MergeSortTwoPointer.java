@@ -1,3 +1,4 @@
+//Merging of two sorted array
 package sorting;
 
 import java.util.Arrays;

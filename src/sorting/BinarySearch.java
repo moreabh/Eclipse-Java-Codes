@@ -1,3 +1,4 @@
+//Searching an element in array
 package sorting;
 
 import java.util.Arrays;
