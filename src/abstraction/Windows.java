@@ -8,4 +8,10 @@ public class Windows extends HP{
 		
 		System.out.println("Printing From Windows");
 	}
+
+	@Override
+	public void read() {
+		System.out.println("Reading From Windows");
+		
+	}
 }

@@ -7,10 +7,12 @@ public class HPWindowDriver {
 		HP h1 = new Windows();
 		
 		h1.print();
+		h1.read();
 		
 		HP h2 = new Linux();
 		 
 		h2.print();
+		h2.read();
 	}
 
 }

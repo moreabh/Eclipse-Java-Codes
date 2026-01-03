@@ -21,24 +21,7 @@ public abstract class Compition2025 {
 	String soloSingingDate;
 	int groupSingingFees;
 	String groupSingingDate;
-	
-	
-	
-	
-//	public Compition2025(int cricketFees, String cricketDate, int vollyFees, String vollyDate,
-//			int footFees, String footDate, int basketFees, String basketdate) {
-//		
-//		this.cricketFees = cricketFees;
-//		this.cricketDate = cricketDate;
-//		this.vollyFees = vollyFees;
-//		this.vollyDate = vollyDate;
-//		this.footFees = footFees;
-//		this.footDate = footDate;
-//		this.basketdate = basketdate;
-//	}
-
-
-	
+		
 	public abstract void cricket();
 	public abstract void crickRegister();
 	
@@ -69,6 +52,19 @@ public abstract class Compition2025 {
 	
 	public abstract void groupSinging();
 	public abstract void groupSingingRegister();
+	
+	
+//	public Compition2025(int cricketFees, String cricketDate, int vollyFees, String vollyDate,
+//	int footFees, String footDate, int basketFees, String basketdate) {
+//
+//this.cricketFees = cricketFees;
+//this.cricketDate = cricketDate;
+//this.vollyFees = vollyFees;
+//this.vollyDate = vollyDate;
+//this.footFees = footFees;
+//this.footDate = footDate;
+//this.basketdate = basketdate;
+//}
 	
 	
 }

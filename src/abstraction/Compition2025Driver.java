@@ -11,5 +11,14 @@ public class Compition2025Driver {
 		c1.cricket();
 		c1.crickRegister();
 		
+		c1.football();
+		c1.footRegister();
+		
+		c1.groupSinging();
+		c1.groupSingingRegister();
+		
+		c1.vollyball();
+		c1.vollyRegister();
+		
 	 }
 }
